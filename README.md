@@ -24,7 +24,7 @@ FMA a été créé dans le cadre d'un projet d'intégration continue sur la base
 
 ### Bugs et améliorations
 
-Nous sommes ouverts à toute suggestion d'amélioration ou de correction. *Alerte* Ce logiciel est blindé de bugs, n'hésitez pas à nous les soumettres si le projet vous intéresse ;)
+Nous sommes ouverts à toute suggestion d'amélioration ou de correction. **Alerte**: Ce logiciel est blindé de bugs, n'hésitez pas à nous les [soumettres](https://github.com/fancysoftwarenet/Full-Metal-Anime/issues) si le projet vous intéresse ;).
 
 ### Remerciements
 
